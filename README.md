@@ -9,7 +9,7 @@ How to use:
 
   Install the pachages in the attach docments
   
-  Write you peptdes into the file "text.fasta" line by line , just paste the peptides from excel, don't use fasta format please, because the programa will do it automatically.
+  Write you peptdes into the file "text.fasta" line by line , just paste the peptides from excel, don't use fasta format please, because the program will do it automatically.
   
   Open python in terminal at the this folder
   
